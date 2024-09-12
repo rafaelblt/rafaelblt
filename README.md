@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
 <!--
 **rafaelblt/rafaelblt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
