@@ -1,5 +1,6 @@
 ## Hello, i'm Rafael!
-- I'm a Python Developer
+- Python Developer
+- Framework: Django
 - 17 years
 - In High School
 
