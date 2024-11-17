@@ -1,8 +1,8 @@
-## Hello, i'm Rafael!
-- Python Developer
-- Framework: Django
+## Hello, i'm Rafael! 👋
+- Backend Developer
+- Recife - Pernambuco, Brazil
 
-## Skills:
+## 🛠️ Skills and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
