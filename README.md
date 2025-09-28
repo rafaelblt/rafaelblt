@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">A backend developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelblt&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelblt" /> </p>
-
 - 📫 How to reach me **rafaelbltn1@gmail.com**
 
 <div align="left">
