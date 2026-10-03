@@ -1,6 +1,6 @@
-<h1>Hello, world!</h1>
+<h1>Hello, world! I'm Rafael</h1>
 
-I'm **Rafael**, a software developer from Brazil.\
+A software developer from Brazil.\
 I am currently working on: [go-auth](https://github.com/rafaelblt/go-auth)
 
 ### Let's Connect
